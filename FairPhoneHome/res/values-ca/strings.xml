@@ -36,13 +36,13 @@
     <string name="rename_folder_title" msgid="4544573104191526550">Canvia el nom de la carpeta</string>
     <string name="rename_action" msgid="6016003384693240896">D\'acord</string>
     <string name="cancel_action" msgid="3811860427489435048">Cancel·la</string>
-    <string name="menu_item_add_item" msgid="6233177331075781114">Addició a la pantalla d'inici</string>
+    <string name="menu_item_add_item" msgid="6233177331075781114">Addició a la pantalla d\'inici</string>
     <string name="group_applications" msgid="2103752818818161976">Aplicacions</string>
     <string name="group_shortcuts" msgid="9133529424900391877">Dreceres</string>
     <string name="group_widgets" msgid="6704978494073105844">Widgets</string>
     <string name="group_wallpapers" msgid="1568191644272224858">Fons de pantalla</string>
     <string name="completely_out_of_space" msgid="1759078539443491182">No queda espai a les pantalles d\'inici</string>
-    <string name="out_of_space" msgid="8365249326091984698">No queda espai a aquesta pantalla d'inici</string>
+    <string name="out_of_space" msgid="8365249326091984698">No queda espai a aquesta pantalla d\'inici</string>
     <string name="hotseat_out_of_space" msgid="6304886797358479361">No queda espai a la barra de dreceres</string>
     <string name="invalid_hotseat_item" msgid="6545340627805449250">Aquest widget és massa gran per la barra de dreceres</string>
     <string name="shortcut_installed" msgid="7071557296331322355">S\'ha creat la drecera a \"<xliff:g id="NAME">%s</xliff:g>\"</string>
@@ -71,17 +71,17 @@
     <string name="menu_help" msgid="4901160661634590633">Ajuda</string>
     <string name="cab_menu_delete_app" msgid="4089398025537640349">Desinstal·la aplicacions</string>
     <string name="cab_menu_app_info" msgid="914548323652698884">Detalls de l\'aplicació</string>
-    <string name="cab_app_selection_text" msgid="6378522164293415735">S'ha seleccionat una aplicació</string>
-    <string name="cab_widget_selection_text" msgid="962527270506951955">S'ha seleccionat un widget</string>
-    <string name="cab_folder_selection_text" msgid="8916111874189565067">S'ha seleccionat una carpeta</string>
-    <string name="cab_shortcut_selection_text" msgid="8115847384500412878">S'ha seleccionat una drecera</string>
+    <string name="cab_app_selection_text" msgid="6378522164293415735">S\'ha seleccionat una aplicació</string>
+    <string name="cab_widget_selection_text" msgid="962527270506951955">S\'ha seleccionat un widget</string>
+    <string name="cab_folder_selection_text" msgid="8916111874189565067">S\'ha seleccionat una carpeta</string>
+    <string name="cab_shortcut_selection_text" msgid="8115847384500412878">S\'ha seleccionat una drecera</string>
     <string name="permlab_install_shortcut" msgid="1201690825493376489">Instal·lar dreceres</string>
     <string name="permdesc_install_shortcut" msgid="8634424803272077038">Permet que una aplicació afegir dreceres sense intervenció de l\'usuari</string>
     <string name="permlab_uninstall_shortcut" msgid="7696645932555926449">Desinstal·lar dreceres</string>
     <string name="permdesc_uninstall_shortcut" msgid="274355570620220977">Permet que l\'aplicació elimini dreceres sense la intervenció de l\'usuari</string>
-    <string name="permlab_read_settings" msgid="3452408290738106747">Llegir la configuració i les dreceres de la pantalla d'inici</string>
+    <string name="permlab_read_settings" msgid="3452408290738106747">Llegir la configuració i les dreceres de la pantalla d\'inici</string>
     <string name="permdesc_read_settings" msgid="5788109303585403679">Permet que una aplicació llegeixi la configuració i les dreceres de la pàgina d\'inici</string>
-    <string name="permlab_write_settings" msgid="1360567537236705628">Escriure la configuració i les dreceres de la pantalla d'inici</string>
+    <string name="permlab_write_settings" msgid="1360567537236705628">Escriure la configuració i les dreceres de la pantalla d\'inici</string>
     <string name="permdesc_write_settings" msgid="8530105489115785531">Permet que una aplicació canviï la configuració i les dreceres de la pàgina d\'inici</string>
     <string name="gadget_error_text" msgid="8359351016167075858">S\'ha produït un problema al carregar el widget</string>
     <string name="uninstall_system_app_text" msgid="6429814133777046491">Això és una aplicació del sistema i no es pot desinstal·lar</string>
@@ -146,7 +146,7 @@
     <string name="oobe_edge_swipe_text">a la dreta o a la esquerra sense aixecar-lo</string>
     
     <string name="oobe_open_app_title">Aixeca el dit</string>
-    <string name="oobe_open_app_text">damunt d'una aplicació per obrir-la</string>
+    <string name="oobe_open_app_text">damunt d\'una aplicació per obrir-la</string>
     
     <string name="oobe_edit_drag_intro">Arrossega les icones de les aplicacions per editar-les</string>
     
@@ -174,10 +174,10 @@
     <string name="google_apps_installer_name">Instal·lador Google Apps</string>
     <string name="google_apps_initial_title">Instal·lar\nGoogle Apps</string>
     <string name="google_apps_disclaimer_title">Instal·lar Google Apps</string>
-    <string name="google_apps_disclaimer_description">Per tenir accéss a l'experiència de Google i Android completa com la Google Play Store, el seu telèfon necessita contingut i software addicional. Desafortunadament, com Fairphone no té la llicència necessària, no podem pre-instal·lar aquest contingut, ni el podem proveir directament. Estem treballant amb el propietari dels continguts per aconseguir-ho.\nEsculli "Accepto" a continuació per a descarregar el contingut des d'una font externa segura. La instal·lació d'aquest contingut és la seva responsabilitat.\nSi no accepta, el seu telèfon continuarà funcionant amb aplicacions Android bàsiques, però perdrà alguns serveis de Google.</string>
+    <string name="google_apps_disclaimer_description">Per tenir accéss a l\'experiència de Google i Android completa com la Google Play Store, el seu telèfon necessita contingut i software addicional. Desafortunadament, com Fairphone no té la llicència necessària, no podem pre-instal·lar aquest contingut, ni el podem proveir directament. Estem treballant amb el propietari dels continguts per aconseguir-ho.\nEsculli "Accepto" a continuació per a descarregar el contingut des d\'una font externa segura. La instal·lació d\'aquest contingut és la seva responsabilitat.\nSi no accepta, el seu telèfon continuarà funcionant amb aplicacions Android bàsiques, però perdrà alguns serveis de Google.</string>
     <string name="google_apps_disclaimer_agree">Accepto</string>
     <string name="google_apps_denied_permissions_title">Permisos denegats</string>
-    <string name="google_apps_denied_permissions_description">Fairphone OS no ha pogut obtenir els Permisos per instal·lar Google Apps. Si ha escollit DENEGAR, reinicii l'instal·lador i escolli AUTORITZAR.</string>
+    <string name="google_apps_denied_permissions_description">Fairphone OS no ha pogut obtenir els permisos per instal·lar Google Apps. Si ha escollit DENEGAR, reinicii l\'instal·lador i escolli AUTORITZAR.</string>
     <string name="google_apps_reboot_failed_title">Error al reiniciar</string>
     <string name="google_apps_reboot_failed_description">Google Apps ha estat instal·lat, però hi ha hagut un error al reiniciar. Si us plau, reinicii manualment.</string>
     <string name="google_apps_download_title">Descarregant Google Apps</string>
@@ -193,6 +193,6 @@
     <string name="google_apps_failed_download_description">Els arxius descarregats estan corromputs. Intentar de nou?</string>
     <string name="google_apps_download_error">Error al descarregar els arxius. Si us plau, intenti-ho de nou.</string>
     <string name="google_apps_connection_title">Wi-Fi desconnectat</string>
-    <string name="google_apps_connection_description">L'arxiu que està intentant descarregar és massa gran per connexions mòbils (~100mb). Si us plau, connecti amb un punt Wi-Fi i provi de nou.</string>
+    <string name="google_apps_connection_description">L\'arxiu que està intentant descarregar és massa gran per connexions mòbils (~100mb). Si us plau, connecti amb un punt Wi-Fi i provi de nou.</string>
 
 </resources>
