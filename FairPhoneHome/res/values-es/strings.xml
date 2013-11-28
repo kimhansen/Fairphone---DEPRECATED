@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 
+<!--
 /*
 * Copyright (C) 2008 The Android Open Source Project
 *
@@ -7,7 +7,7 @@
 * you may not use this file except in compliance with the License.
 * You may obtain a copy of the License at
 *
-*      http://www.apache.org/licenses/LICENSE-2.0
+* http://www.apache.org/licenses/LICENSE-2.0
 *
 * Unless required by applicable law or agreed to in writing, software
 * distributed under the License is distributed on an "AS IS" BASIS,
@@ -15,7 +15,7 @@
 * See the License for the specific language governing permissions and
 * limitations under the License.
 */
- -->
+-->
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
@@ -52,7 +52,7 @@
     <string name="title_select_application" msgid="1793455815754848652">Selecciona una aplicación</string>
     <string name="all_apps_button_label" msgid="2578400570124163469">Aplicaciones</string>
     <string name="all_apps_home_button_label" msgid="1022222300329398558">"Inicio"</string>
-    <string name="delete_zone_label_workspace" msgid="7153615831493049150">Eliminar del escritorio</string>
+    <string name="delete_zone_label_workspace" msgid="7153615831493049150">Eliminar</string>
     <string name="delete_zone_label_all_apps" msgid="6664588234817475108">Desinstalar</string>
     <string name="delete_target_label" msgid="665300185123139530">Eliminar</string>
     <string name="delete_target_uninstall_label" msgid="748894921183769150">Desinstalar</string>
@@ -175,9 +175,9 @@
     <string name="google_apps_installer_name">Instalador Google Apps</string>
     <string name="google_apps_initial_title">Instalar\nGoogle Apps</string>
     <string name="google_apps_disclaimer_title">Instalar Google Apps</string>
-    <string name="google_apps_disclaimer_description">Para tener acceso a la experiencia Google y Android completa como la Google Play Store, su teléfono necesita contenido y software adicional. Desafortunadamente, como Fairphone no tiene la licencia necesaria, no podemos pre-instalar este contenido, ni lo podemos proveer directamente. Estamos trabajando con el propietario de los contenidos para lograr hacerlo.\nElija “Acepto” a continuación para descargar el contenido desde una fuente externa segura. La instalación de este contenido es su responsabilidad.\nSi no acepta, su teléfono continuará funcionando con aplicaciones Android basicas, pero va a perder algunos servicios Google.</string>
+    <string name="google_apps_disclaimer_description">Para tener acceso a la experiencia Google y Android completa como la Google Play Store, su teléfono necesita contenido y software adicional. Desafortunadamente, como Fairphone no tiene la licencia necesaria, no podemos pre-instalar este contenido, ni lo podemos proveer directamente. Estamos trabajando con el propietario de los contenidos para lograr hacerlo.\nElija “Acepto” a continuación para descargar el contenido desde una fuente externa segura. La instalación de este contenido es su responsabilidad.\nSi no acepta, su teléfono continuará funcionando con aplicaciones Android basicas, pero va a perder algunos servicios de Google.</string>
     <string name="google_apps_disclaimer_agree">Acepto</string>
-    <string name="google_apps_denied_permissions_title">Permisiones negadas</string>
+    <string name="google_apps_denied_permissions_title">Permisos denegados</string>
     <string name="google_apps_denied_permissions_description">Fairphone OS no ha podido obtener los permisos para instalar Google Apps. Si ha elegido NEGAR, reinicie el instalador y elija AUTORIZAR.</string>
     <string name="google_apps_reboot_failed_title">Fallo al reiniciar</string>
     <string name="google_apps_reboot_failed_description">Google Apps ha sido instalado, pero ha habido un fallo al reiniciar. Por favor, reinicie manualmente.</string>
@@ -190,10 +190,10 @@
     <string name="google_apps_reboot_description">Necesita reiniciar el sistema para completar la instalación.\nDespués de la instalación, siga los pasos para configurar Google Apps.</string>
     <string name="google_apps_uninstall_title">Google Apps instalado</string>
     <string name="google_apps_uninstall_description">Borrar\neste instalador.</string>
-    <string name="google_apps_failed_download_title">Fallo al descargar.</string>
+    <string name="google_apps_failed_download_title">Fallo al descargar</string>
     <string name="google_apps_failed_download_description">Los archivos descargados están corrompidos. ¿Intentar otra vez?</string>
     <string name="google_apps_download_error">Error al descargar los archivos. Por favor, intente otra vez.</string>
-    <string name="google_apps_connection_title">Wi-Fi desconectado.</string>
+    <string name="google_apps_connection_title">Wi-Fi desconectado</string>
     <string name="google_apps_connection_description">El archivo que está intentando descargar es muy grande para conexiones móviles (~100mb). Por favor, conéctese a un punto Wi-Fi e intente otra vez.</string>
     
 </resources>
