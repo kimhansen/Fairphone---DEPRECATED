@@ -29,16 +29,10 @@
                 android:text="@string/enjoy" />
 
             <TextView
-                style="@style/WidgetOffLightText"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/to_m" />
-
-            <TextView
                 style="@style/WidgetOffRegularText"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/um" />
+                android:text="@string/una" />
         </LinearLayout>
 
         <LinearLayout
