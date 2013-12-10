@@ -1,3 +1,6 @@
+###NOTICE 10.12.13 - This repository is deprecated. Please submit contributions to https://github.com/kimhansen/Fairphone
+
+
 #Introduction
 
 ##Fairphone concept
