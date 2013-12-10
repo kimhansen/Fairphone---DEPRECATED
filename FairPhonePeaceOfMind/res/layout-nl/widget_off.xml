@@ -13,7 +13,8 @@
             android:id="@+id/widgetOffImage"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="@drawable/widget_off" />
+            android:background="@drawable/widget_off"
+            android:contentDescription="@string/peace_spot" />
 
         <LinearLayout
             android:layout_width="wrap_content"

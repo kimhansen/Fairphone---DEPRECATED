@@ -29,16 +29,10 @@
                 android:text="@string/enjoy" />
 
             <TextView
-                style="@style/WidgetOffLightText"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/to_widget" />
-
-            <TextView
                 style="@style/WidgetOffRegularText"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/some" />
+                android:text="@string/una" />
         </LinearLayout>
 
         <LinearLayout
@@ -48,10 +42,16 @@
             android:orientation="horizontal" >
 
             <TextView
+                style="@style/WidgetOffRegularText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/some" />
+
+            <TextView
                 style="@style/WidgetOffLightText"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/de" />
+                android:text="@string/to_h" />
 
             <TextView
                 style="@style/WidgetOffBoldText"
